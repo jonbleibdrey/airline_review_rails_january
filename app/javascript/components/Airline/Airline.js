@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Airlines = () => {
-    return (
-        <div>
-            this is the Arlines show view page from app
-        </div>
-    )
-}
+  return <div>this is the Arlines show view page from app</div>;
+};
 
-export default Airlines
+export default Airlines;
